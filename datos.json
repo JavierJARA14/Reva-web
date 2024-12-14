@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "first_name": "Paulina",
+      "last_name": "Romo",
+      "avatar": "https://images/paulina.png",
+      "id": "1"
+    },
+    {
+      "id": "552e",
+      "first_name": "Javier",
+      "last_name": "Jara",
+      "avatar": "https://images/javier.png"
+    }
+  ]
+}
